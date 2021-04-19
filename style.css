@@ -6,13 +6,9 @@ html{scroll-behavior: smooth;}
 
 /* custom scroll bar */
 ::-webkit-scrollbar {width: 10px;}
-
 ::-webkit-scrollbar-track {background: #f1f1f1;}
-
 ::-webkit-scrollbar-thumb {background: #555;}
-
 ::-webkit-scrollbar-thumb:hover {background: #013767;}
-
 /* all similar content styling codes */
 section{padding: 0px 0;}
 
