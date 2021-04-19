@@ -12,7 +12,7 @@ html{scroll-behavior: smooth;}
 /* all similar content styling codes */
 section{padding: 0px 0;}
 
-.max-width{max-width: 1300px;padding: 0 80px;margin: auto;}
+.max-width{max-width: 1300px;padding: 0 20px;margin: auto;}
 
 .sobre, .servicos, .ferramentas, .teams, .contato, footer{font-family: 'Montserrat', sans-serif;}
 
