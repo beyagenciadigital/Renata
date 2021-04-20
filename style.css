@@ -23,7 +23,7 @@ section .titulos{position: relative;text-align: center;font-size: 40px;padding-b
 font-weight: 800;color: white;margin-top: 100px;}
 
 section .titulos2{text-align: left;font-size: 40px;padding-bottom: 20px;font-family: 'Montserrat', sans-serif
-font-weight: 800;color: #7ec9d7;margin-top: 150px;margin-left: -70%;}
+font-weight: 800;color: #7ec9d7;margin-top: 10px;margin-left: -70%;}
 
 /* navbar styling */
 .navbar{position: fixed;width: 110%;z-index: 999;padding: 30px 0;font-family: 'Montserrat', sans-serif;
